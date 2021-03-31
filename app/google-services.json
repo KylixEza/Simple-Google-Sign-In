@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092535385681",
+    "project_id": "mysignin-87fcc",
+    "storage_bucket": "mysignin-87fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092535385681:android:ad975e258b4a4ba99b0270",
+        "android_client_info": {
+          "package_name": "com.raion.mygooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092535385681-f3c3pn7jn471a5stijvj5uf680oggnot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChIyl3l4r9i8E1WK02L0oVUPii1iP4ZxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092535385681-f3c3pn7jn471a5stijvj5uf680oggnot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
