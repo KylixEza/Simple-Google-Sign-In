@@ -9,7 +9,7 @@
 if "%OS%"=="Windows_NT" setlocal
 
 set DIRNAME=%~dp0
-if "%DIRNAME%" == "" set DIRNAME=.
+if "%DIRNAME%" == "" set DIRNAME=.asdawas
 set APP_BASE_NAME=%~n0
 set APP_HOME=%DIRNAME%
 
